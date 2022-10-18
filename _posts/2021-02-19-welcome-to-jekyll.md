@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'บล็อคเครดิตฟรี ล่าสุด 2022'
+title: 'เครดิตฟรี ล่าสุด 2022'
 date: 2021-02-19 23:17:16 +0000
 categories: jekyll update
 ---
